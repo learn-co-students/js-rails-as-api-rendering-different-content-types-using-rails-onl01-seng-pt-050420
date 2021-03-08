@@ -5,7 +5,7 @@
 - Override the default Rails view
 - Render plain text from a Rails controller
 - Render JSON from a Rails controller
-
+ 
 ## Introduction
 
 In the previous lesson, we revisited the default Rails MVC structure, and at the
